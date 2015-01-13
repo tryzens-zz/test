@@ -8,7 +8,6 @@ public class Hello {
 		System.out.println("Commit - branch -1");
 	System.out.println("Commit c4 branch 2");
 		System.out.println("Commit c3 branch -1");
-		System.out.println("commit c5");
 
 	}
 
