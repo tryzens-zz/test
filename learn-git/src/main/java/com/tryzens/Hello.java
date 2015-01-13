@@ -6,6 +6,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Commit C1 - master");
 		System.out.println("Commit - branch -1");
+		System.out.println("Commit c4 branch 2");
 	}
 
 }
