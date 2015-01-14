@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("branch-1");
 		System.out.println("rebase -br2");
 		System.out.println("Rebase-3");
+		System.out.println("br-1- rebase");
 	}
 
 }
