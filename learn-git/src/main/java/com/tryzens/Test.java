@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Testing rebase1");
 		System.out.println("Hi");
 		System.out.println("branch-1");
+		System.out.println("rebase -br2");
 	}
 
 }
