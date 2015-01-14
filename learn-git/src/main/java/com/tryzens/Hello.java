@@ -11,6 +11,7 @@ public class Hello {
 System.out.println("Hello");
 System.out.println("branch-1");
 System.out.println("Rebase-2");
+System.out.println("master rebase");
 	}
 
 }
